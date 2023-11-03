@@ -1,0 +1,12 @@
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\Asclepius Health Care - Desktop App.exe.config
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\Asclepius Health Care - Desktop App.exe
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\Asclepius Health Care - Desktop App.pdb
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.csproj.AssemblyReference.cache
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.csproj.SuggestedBindingRedirects.cache
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius_Health_Care___Desktop_App.Main.resources
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius_Health_Care___Desktop_App.Properties.Resources.resources
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius_Health_Care___Desktop_App.UserControls.Login.resources
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.csproj.GenerateResource.cache
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.csproj.CoreCompileInputs.cache
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.exe
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.pdb
