@@ -2,7 +2,6 @@ E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Healt
 E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\Asclepius Health Care - Desktop App.exe
 E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\Asclepius Health Care - Desktop App.pdb
 E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.csproj.AssemblyReference.cache
-E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.csproj.SuggestedBindingRedirects.cache
 E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius_Health_Care___Desktop_App.Main.resources
 E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius_Health_Care___Desktop_App.Properties.Resources.resources
 E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius_Health_Care___Desktop_App.UserControls.Login.resources
@@ -10,3 +9,38 @@ E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Healt
 E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.csproj.CoreCompileInputs.cache
 E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.exe
 E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.pdb
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\Google.Protobuf.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\K4os.Compression.LZ4.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\K4os.Hash.xxHash.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\MySql.Data.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Buffers.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.IO.Pipelines.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Memory.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Numerics.Vectors.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\ZstdSharp.dll
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\Google.Protobuf.pdb
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\Google.Protobuf.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\K4os.Compression.LZ4.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\K4os.Hash.xxHash.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\MySql.Data.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Buffers.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.IO.Pipelines.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Memory.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Numerics.Vectors.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius Health Care - Desktop App.csproj.CopyComplete
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius_Health_Care___Desktop_App.UserControls.Admin.AdminMain.resources
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius_Health_Care___Desktop_App.UserControls.Admin.AdminRight.resources
+E:\Git\Asclepius Health Care\Asclepius Health Care - Desktop App\Asclepius Health Care - Desktop App\obj\Debug\Asclepius_Health_Care___Desktop_App.UserControls.TopSquare.resources

@@ -67,7 +67,7 @@
             this.textBox1.Location = new System.Drawing.Point(10, 30);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(250, 33);
-            this.textBox1.TabIndex = 2;
+            this.textBox1.TabIndex = 1;
             // 
             // textBox2
             // 
@@ -83,12 +83,13 @@
             this.button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(143)))), ((int)(((byte)(88)))));
             this.button1.Font = new System.Drawing.Font("Arial", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(565, 485);
+            this.button1.Location = new System.Drawing.Point(510, 485);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(150, 40);
+            this.button1.Size = new System.Drawing.Size(270, 40);
             this.button1.TabIndex = 4;
             this.button1.Text = "Login";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // groupBox1
             // 
@@ -110,7 +111,7 @@
             this.groupBox2.Location = new System.Drawing.Point(510, 390);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(270, 73);
-            this.groupBox2.TabIndex = 5;
+            this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Password";
             // 
